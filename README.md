@@ -1,7 +1,7 @@
 # DSA-Data-Structures-and-Algorithm---JavaScript
 This repo contains all of the files and contents I learned throughtout my DSA journey the notes might help you.
 
-To complete the DSA journey Im mainly using 3 main platforms
+To complete the DSA journey Im mainly used 4 main platforms
 
 1. Udemy
     Im taking this course https://leapfrog.udemy.com/course/js-algorithms-and-data-structures-masterclass
