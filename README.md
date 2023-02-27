@@ -18,6 +18,7 @@ main platforms
     
 5. YouTube.
     There are great teachers out there in YouTube, I generally use YouTube in DSA for guidence purpose only. To know how to actually learn DSA.
-    https://www.youtube.com/watch?v=UVP3123wNYQ&t=386s&ab_channel=NishantChahar
+    https://www.youtube.com/watch?v=UVP3123wNYQ&t=386s&ab_channel=NishantChahar 
+    https://www.youtube.com/@Codevolution
  
  I will be keep Updating the things
