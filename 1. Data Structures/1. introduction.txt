@@ -1,12 +1,16 @@
-﻿DATA STRUCTURES
-A data structure is a way to store and organize data so that it can be used efficiently.
-A data structure is a collection of data values , the relationships among them, and the functions or operations that can be applied to the data.
+<h1>﻿DATA STRUCTURES</h1>
+
+<p>A data structure is a way to store and organize data so that it can be used efficiently.</p>
+<p>A data structure is a collection of data values , the relationships among them, and the functions or operations that can be applied to the data.</p>
 
 WHY to learn data structures?
-Every application are build using the data. To manage, access and perform various task on those data, the data should be structured properly. So here comes the data structure. 
-Imaging walking into the department store just to find the products are stored randomly. And you can not find your favorite wine. :(
-The selection of right data structure in the code can reduce the time to run that code, which will plays and significant role if you look it out from the bigger picture. In smaller project or program it might seem the no difference at all but if you are dealing with large program and data. The selection of right data structure is most. It saves both time and memory. 
-Understanding the data structures helps to gain more profound understanding of things that you are aware of like the concepts of 
+<p>Every application are build using the data. To manage, access and perform various task on those data, the data should be structured properly. So here comes the data structure.</p>
+
+<p>Imaging walking into the department store just to find the products are stored randomly. And you can not find your favorite wine. :(
+The selection of right data structure in the code can reduce the time to run that code, which will plays and significant role if you look it out from the bigger picture. In smaller project or program it might seem the no difference at all but if you are dealing with large program and data. The selection of right data structure is most. It saves both time and memory. </p>
+
+<p>Understanding the data structures helps to gain more profound understanding of things that you are aware of like the concepts of </p>
+
 DOM – Tree data structure
 Browser back and forward – Stack data structure
 OS job scheduling – Queue data Structure
