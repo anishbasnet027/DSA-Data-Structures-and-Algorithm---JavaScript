@@ -1,1 +1,11 @@
+<h1>Stack</h1>
+Sequential  Collection of elements that follows the principle of Last In First Out (LIFO).
+
+Last element added in the stack will be removed first.
+
+It is abstract data type. It is defined by its behavior rather than being a mathematical model.
+
+It has two main operations 
+    * Push, adds an elements to the Collection
+    * Pop, removes the most recently added elements from the Collection
 
