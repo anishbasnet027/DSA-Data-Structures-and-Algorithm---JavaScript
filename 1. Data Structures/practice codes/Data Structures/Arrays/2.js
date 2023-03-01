@@ -26,3 +26,17 @@ function cloneArray1(inputArray){
     let A3 = [...inputArray];
     return A3;
 }
+
+//slice 
+// The slice() method returns selected elements in an array, as a new array.
+
+// The slice() method selects from a given start, up to a (not inclusive) given end.
+
+// The slice() method does not change the original array.
+
+
+console.log(ArraySlice(A1));
+function ArraySlice (inputArray){
+    const A4 = inputArray.slice(0);
+    return A4
+}
