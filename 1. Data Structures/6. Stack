@@ -9,3 +9,4 @@ It has two main operations
     * Push, adds an elements to the Collection
     * Pop, removes the most recently added elements from the Collection
 
+Example, Great to trace history, browser history, Undo operation in typing, Call stack in Javascript runtime
