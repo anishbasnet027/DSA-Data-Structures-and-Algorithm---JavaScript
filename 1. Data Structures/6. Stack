@@ -10,3 +10,12 @@ It has two main operations
     * Pop, removes the most recently added elements from the Collection
 
 Example, Great to trace history, browser history, Undo operation in typing, Call stack in Javascript runtime
+
+<h1>Stack Implementation</h1>
+    * push()
+    * pop()
+    * peek() => get the value of the top element without removing it 
+    * isEmpty() => check if the stack is empty
+    * size() => get the number of elements in the stack 
+    * print() => visualize the elements in the stack 
+    
