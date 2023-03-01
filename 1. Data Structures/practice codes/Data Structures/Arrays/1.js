@@ -18,7 +18,6 @@ function checkArray(arrayInp){
 
 //easy solution
 function checkArray(arrayInp){
-    console.log(Array);
    return Array.isArray(arrayInp);
 }
 
