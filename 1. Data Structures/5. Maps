@@ -1,0 +1,19 @@
+<h1>Map</h1>
+
+A map is an unordered collection of key-value pairs. Both keys and values can be of any data type.
+
+To retrieve a value, you can use the corresponding key 
+
+They are iterable, for loop
+
+
+<h2>Object vs Map</h2>
+
+Object are unordered, not iterable
+
+keys in object can only be symbol or string, map can be of any type
+
+object by deafult has own keys and may collide with user defined keys. But map dont have default keys
+
+object can have functionality but map just store data
+
