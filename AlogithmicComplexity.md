@@ -15,8 +15,8 @@ Suppose you are given an unsorted list and asked to find all duplicates, then th
 
 
 <H1>Big O Notation Rule </H1>
-1. Find fastest growing term
-2. Remove Coefficient
+1. Find fastest growing term <br/>
+2. Remove Coefficient<br/>
 
-  Example: T=an+g = O(n)
+  Example: T=an+g = O(n)<br/>
            T = an^2 + n= o(n^2)
