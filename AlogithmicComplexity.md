@@ -21,4 +21,4 @@ Suppose you are given an unsorted list and asked to find all duplicates, then th
   Example: T=an+g = O(n)<br/>
            T = an^2 + n= o(n^2)
 
-<h3>Because we care larer input not the smaller input </h3>
+<h3>Because we care larger input not the smaller input </h3>
