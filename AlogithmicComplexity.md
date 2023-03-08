@@ -15,6 +15,9 @@ Suppose you are given an unsorted list and asked to find all duplicates, then th
 
 
 <H1>Big O Notation Rule </H1>
+https://www.bigocheatsheet.com/
+
+<H2>Time Complexity</H2>
 1. Find fastest growing term <br/>
 2. Remove Coefficient<br/>
 
@@ -22,3 +25,12 @@ Suppose you are given an unsorted list and asked to find all duplicates, then th
            T = an^2 + n= o(n^2)
 
 <h3>Because we care larger input not the smaller input </h3>
+
+<H2>Space Complexity</H2>
+ Measures the memory usage of a specific program,<br/>
+ a) Assigning Variables<br/>
+ b) Creating new data structures<br/>
+ c) Function calling and allocation <br/>
+ 
+ 
+
