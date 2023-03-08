@@ -12,3 +12,11 @@ On the other hand, if you search for a word in a dictionary, the search will be 
 If you're asked to pick out the first word in a dictionary, this operation is of constant time complexity, regardless of number of words in the dictionary. Likewise, joining the end of a queue in a bank is of constant complexity regardless of how long the queue is.
 
 Suppose you are given an unsorted list and asked to find all duplicates, then the complexity becomes quadratic. Checking for duplicates for one item is of linear complexity. If we do this for all items, complexity becomes quadratic. Similarly, if all people in a room are asked to shake hands with every other person, the complexity is quadratic.
+
+
+<H1>Big O Notation Rule </H1>
+1. Find fastest growing term
+2. Remove Coefficient
+
+  Example: T=an+g = O(n)
+           T = an^2 + n= o(n^2)
