@@ -3,7 +3,7 @@
 
 
 const now = new Date();
-console.log(now);
+console.log(now); // getting local time
 const day = now.toLocaleDateString();
 const time = now.toLocaleTimeString();
 console.log("Today is "+day)
