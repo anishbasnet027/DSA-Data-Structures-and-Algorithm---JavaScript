@@ -17,3 +17,4 @@ function positiveSum(arr) {
 }
 c=[1,-5,3,2];
 positiveSum(c);
+console.log("complete")
