@@ -26,3 +26,15 @@ Radix Sort
 Bucket Sort
 Heap Sort
 Shell Sort
+Complexity of Sorting Algorithms
+The efficiency of any sorting algorithm is determined by the time complexity and space complexity of the algorithm.
+
+1. Time Complexity: Time complexity refers to the time taken by an algorithm to complete its execution with respect to the size of the input. It can be represented in different forms:
+
+Big-O notation (O)
+Omega notation (Ω)
+Theta notation (Θ)
+2. Space Complexity: Space complexity refers to the total amount of memory used by the algorithm for a complete execution. It includes both the auxiliary memory and the input.
+
+The auxiliary memory is the additional space occupied by the algorithm apart from the input data. Usually, auxiliary memory is considered for calculating the space complexity of an algorithm.
+
