@@ -15,3 +15,14 @@ A Sorting Algorithm is used to rearrange a given array or list of elements accor
 
 For Example: The below list of characters is sorted in increasing order of their ASCII values. That is, the character with a lesser ASCII value will be placed first than the character with a higher ASCII value.
 
+Different Sorting Algorithms
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quicksort
+Counting Sort
+Radix Sort
+Bucket Sort
+Heap Sort
+Shell Sort
